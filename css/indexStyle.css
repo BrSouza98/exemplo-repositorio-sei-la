@@ -1,0 +1,52 @@
+/*css do banner*/
+.banner{
+    display: flex;
+    justify-content: center;
+    height: 45vh;
+    width: 100%;
+
+    color: white;
+
+    background-image: url("../img/imagens/capa4.jpg");
+}
+
+.banner-h5{
+    color: orange;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/*Estilos das imagens e textos*/
+.conteudo-imagens img{
+    width: 500px;
+}
+
+.conteudo-texto{
+    font-size: 1.5em;
+}
+
+.conteudo-texto h1, .conteudo-texto article h3{
+    color: rgb(235, 127, 4);
+    font-weight: bold;
+}
+
+/*Estilo parte inferior*/
+.inferior{
+    background-image: url(../img/imagens/capa4.jpg);
+}
+
+.inferior-texto{
+    color: white;
+}
+
+.inferior-texto h1{
+    font-weight: bold;
+}
+
+.inferior-texto h3{
+    color: orange;
+}
+
+.inferior-img img{
+    width: 25%;
+}

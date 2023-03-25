@@ -1,0 +1,38 @@
+/*css do borderbar*/
+
+.nav-link-color:hover{
+    color: orange;
+}
+
+/*css do footer*/
+
+.footer-space{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 18vh;
+}
+
+.footer-links li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.footer-links li a:hover{
+    color: orange;
+}
+
+.footer-links-socials li a{
+    text-decoration: none;
+}
+
+.footer-links-socials li a img{
+    border: 1px solid rgba(var(--bs-dark-rgb),var(--bs-bg-opacity));
+    border-radius: 3px 3px 3px 3px;
+}
+
+
+.footer-links-socials li a img:hover{
+    border: 1px solid orange;
+    border-radius: 3px 3px 3px 3px;
+}
+

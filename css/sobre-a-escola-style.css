@@ -1,0 +1,22 @@
+/*Css do conteudo da pagina sobre a escola*/
+
+
+.conteudo-h1{
+    font-weight: bold;
+    color: teal;
+}
+
+.conteudo-imagem{
+    width: 100%;
+}
+
+.conteudo-texto{
+    font-size: 25px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.conteudo-texto h3{
+    font-weight: bold;
+    color: teal;
+}
